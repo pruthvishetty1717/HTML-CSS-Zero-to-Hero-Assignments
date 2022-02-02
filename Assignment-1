@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html style="background-color: skyblue;">
+    <head>
+        <title>Assignment 1</title>
+    </head>
+    <body>
+        <h1 style="color: darkblue;">Pruthvi Shetty</h1>
+        <h2 style="color:indigo">Why do you want to learn HTML CSS: ZERO TO HERO?</h2>
+        <p style="color:rgb(10, 14, 27)">
+            I have a very basic knowlegde of HTML & CSS, so doing this course from letsupgrade will help me gain theory as well as practical knowlegde.
+            Looking forward to it:)
+        </p>
+    </body>
+</html>
